@@ -1,5 +1,5 @@
 # Dynamic Website Hosting on AWS
-![Alt text](Host_a_Dynamic_Website_on_AWS.png)
+![Alt text](Host_a_Dynamic_Web_App_on_AWS.png)
 
 ---
 ## Overview
